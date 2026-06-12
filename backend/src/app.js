@@ -15,6 +15,10 @@ import passwordResetRoutes from './routes/passwordResetRoutes.js';
 import { errorHandler, notFound } from './middleware/errorMiddleware.js';
 
 const app = express();
+app.get("/", (req, res) => {
+  res.send("Backend is running successfully");
+});
+
 
 app.use(helmet());
 app.use(
