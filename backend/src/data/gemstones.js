@@ -1,0 +1,93 @@
+export const defaultGemstones = [
+  {
+    name: 'Ruby',
+    image: 'https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=900&q=80',
+    gallery: [],
+    description: 'A vivid red gemstone associated with courage, leadership, recognition, and vitality.',
+    benefits: ['Confidence', 'Career Growth', 'Leadership', 'Vitality'],
+    color: 'Red',
+    planet: 'Sun',
+    recommendedFor: ['Career Growth', 'Confidence', 'Health'],
+    wearingInstructions: 'Wear on the ring finger after professional consultation.',
+    suggestedMetal: 'Gold',
+    suggestedDay: 'Sunday'
+  },
+  {
+    name: 'Emerald',
+    image: 'https://images.unsplash.com/photo-1600119612651-0db31b3a7baa?auto=format&fit=crop&w=900&q=80',
+    gallery: [],
+    description: 'A green gemstone connected with learning, communication, commerce, and analytical clarity.',
+    benefits: ['Education', 'Communication', 'Business Growth', 'Focus'],
+    color: 'Green',
+    planet: 'Mercury',
+    recommendedFor: ['Education', 'Career Growth', 'Wealth'],
+    wearingInstructions: 'Wear on the little finger with a clean setting.',
+    suggestedMetal: 'Gold or Silver',
+    suggestedDay: 'Wednesday'
+  },
+  {
+    name: 'Yellow Sapphire',
+    image: 'https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=900&q=80',
+    gallery: [],
+    description: 'A golden stone traditionally linked with wisdom, wealth, optimism, and guidance.',
+    benefits: ['Wealth', 'Wisdom', 'Education', 'Prosperity'],
+    color: 'Yellow',
+    planet: 'Jupiter',
+    recommendedFor: ['Wealth', 'Education', 'Peace of Mind'],
+    wearingInstructions: 'Wear on the index finger after energizing rituals if followed.',
+    suggestedMetal: 'Gold',
+    suggestedDay: 'Thursday'
+  },
+  {
+    name: 'Diamond',
+    image: 'https://images.unsplash.com/photo-1599643478809-bfde7de4c700?auto=format&fit=crop&w=900&q=80',
+    gallery: [],
+    description: 'A clear gemstone associated with refinement, relationships, luxury, and attraction.',
+    benefits: ['Love', 'Creativity', 'Charm', 'Material Comfort'],
+    color: 'White',
+    planet: 'Venus',
+    recommendedFor: ['Love', 'Wealth', 'Confidence'],
+    wearingInstructions: 'Wear in a secure ring or pendant setting.',
+    suggestedMetal: 'Platinum or White Gold',
+    suggestedDay: 'Friday'
+  },
+  {
+    name: 'Blue Sapphire',
+    image: 'https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=900&q=80',
+    gallery: [],
+    description: 'A deep blue gemstone associated with discipline, protection, responsibility, and focus.',
+    benefits: ['Career Growth', 'Discipline', 'Protection', 'Speed'],
+    color: 'Blue',
+    planet: 'Saturn',
+    recommendedFor: ['Career Growth', 'Peace of Mind', 'Confidence'],
+    wearingInstructions: 'Use only after trial period and expert advice.',
+    suggestedMetal: 'Silver or Panchdhatu',
+    suggestedDay: 'Saturday'
+  },
+  {
+    name: 'Pearl',
+    image: 'https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=900&q=80',
+    gallery: [],
+    description: 'A luminous organic gem connected with calm, emotional balance, and nurturing energy.',
+    benefits: ['Peace of Mind', 'Emotional Balance', 'Health', 'Sleep'],
+    color: 'White',
+    planet: 'Moon',
+    recommendedFor: ['Peace of Mind', 'Health', 'Love'],
+    wearingInstructions: 'Wear on the little finger or as a pendant.',
+    suggestedMetal: 'Silver',
+    suggestedDay: 'Monday'
+  },
+  {
+    name: 'Red Coral',
+    image: 'https://images.unsplash.com/photo-1589810635657-232948472d98?auto=format&fit=crop&w=900&q=80',
+    gallery: [],
+    description: 'A red organic gemstone associated with strength, initiative, stamina, and decisive action.',
+    benefits: ['Health', 'Confidence', 'Courage', 'Energy'],
+    color: 'Red',
+    planet: 'Mars',
+    recommendedFor: ['Health', 'Confidence', 'Career Growth'],
+    wearingInstructions: 'Wear on the ring finger in a smooth setting.',
+    suggestedMetal: 'Gold or Copper',
+    suggestedDay: 'Tuesday'
+  }
+];
